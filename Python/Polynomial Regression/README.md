@@ -20,11 +20,11 @@ Using this data we train our [Polynomial Regression Model](./polynomial-regressi
 
   4. Transform our feature X into polynomial features using Scikit-learn
 
-  4. Fit and train model using linear regression model using Scikit-learn
+  5. Fit and train model using linear regression model using Scikit-learn
 
-  5. Predict using the trained model using Scikit-learn
+  6. Predict using the trained model using Scikit-learn
 
-  6. Visualize results using Matplotlib
+  7. Visualize results using Matplotlib
 
 The 2 figures below shows and compares models fitted using Linear Regression and a Polynomial Regression.
 
