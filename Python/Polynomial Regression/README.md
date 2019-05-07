@@ -24,7 +24,7 @@ Using this data we train our [Polynomial Regression Model](./polynomial-regressi
 
   6. Predict using the trained model using Scikit-learn
 
-  7. Visualize results using Matplotlib
+  7. Visualize results using Matplotlib while using Numpy on our features to smooth out the curve
 
 The 2 figures below shows and compares models fitted using Linear Regression and a Polynomial Regression.
 
