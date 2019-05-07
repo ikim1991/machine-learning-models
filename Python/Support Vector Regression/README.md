@@ -26,6 +26,6 @@ Using this data we train our [Support Vector Regression Model](./svr.py) to pred
 
   7. Visualize results using Matplotlib while using Numpy on our features to smooth out the curve
 
-The figure below shows the data trained on a SVR Model. Note that the model does not fit the last value of our dataset as the algorithm classified as an outlier.
+The figure below shows the data trained on a SVR Model. Note that the model does not fit the last value of our dataset as the algorithm classified it as an outlier.
 
 ![SVR](./svr.png)
