@@ -9,10 +9,10 @@ Using this data we train our [Univariate Linear Regression Model](./univariate.p
 ### Univariate Linear Regression Template
 
   1. Import libraries
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - Scikit-learn
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Scikit-learn
 
   2. Load [dataset](./Salary_Data.csv) using Pandas
 
@@ -39,11 +39,11 @@ Using the Backward Elimination method we can find, which variables are most sign
 ### Multivariate Linear Regression Template
 
   1. Import libraries
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - Scikit-learn
-    - StatsModels
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Scikit-learn
+      - StatsModels
 
   2. Load [dataset](./50_Startups.csv) using Pandas
 

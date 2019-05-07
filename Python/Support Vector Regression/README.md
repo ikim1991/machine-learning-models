@@ -9,10 +9,10 @@ Using this data we train our [Support Vector Regression Model](./svr.py) to pred
 ### Support Vector Regression Template
 
   1. Import libraries
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - Scikit-learn
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Scikit-learn
 
   2. Load [dataset](./Position_Salaries.csv) using Pandas
 
