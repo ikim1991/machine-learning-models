@@ -31,6 +31,6 @@ The figure below shows the trained Logistic Regression model.
 
 To run the model, run the command `multiClassifiers` on Octave and making sure that you are on the correct working directory to successfully run the program.
 
-The [Handwritten Digits Dataset](./handWrittenDigits.txt) contains training examples of handwritten digits. We train our One vs. All logistic regression model to recognize and classify a handwritten digit from 0 to 9.
+The [Handwritten Digits Dataset](./handWrittenDigits.mat) contains training examples of handwritten digits. We train our One vs. All logistic regression model to recognize and classify a handwritten digit from 0 to 9.
 
 To train our model we use the [fmincg](./fmincg.m). First by computing our [Regularized Cost Function and Gradient](./lrCostFunction.m), we then run the [fmincg](./fmincg.m) in the [oneVsAll](./oneVsAll.m) method to minimize our Cost, J, in respect to our parameters Theta. The iteration takes place on each label from 0 to 9, where we then [predict](./predictOneVsAll.m) the digit based on the set of theta parameters with the highest probability.
