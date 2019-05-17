@@ -2,7 +2,7 @@
 
 ## Support Vector Machine
 
-Using Python and the scikit-learn library, we are able train and fit a K Nearest Neighbor model.
+Using Python and the scikit-learn library, we are able train and fit a Support Vector Machine model.
 The [Social Network Ads Dataset](./Social_Network_Ads.csv) contains a customer's age, salary and whether or not they purchased the product.
 Using this data we train our [Support Vector Machine Model](./svm.py) to predict the probability of whether a customer will buy the product depending on their age and salary.
 
